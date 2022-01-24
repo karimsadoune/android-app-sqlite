@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ideal weight calculator</string>
+    <string name="height">height</string>
+    <string name="gender">gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="result">result</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+    <string name="title">calculate your weight</string>
+</resources>

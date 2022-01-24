@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ideal weight calculator</string>
+    <string name="height">taille</string>
+    <string name="gender">genre</string>
+    <string name="male">homme</string>
+    <string name="female">femme</string>
+    <string name="result">resultat</string>
+    <string name="calculate">calculer</string>
+    <string name="reset">annuler</string>
+    <string name="title">calculer votre poids</string>
+</resources>
